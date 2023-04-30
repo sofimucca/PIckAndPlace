@@ -1,2 +1,2 @@
 # PIckAndPlace
-Pick and place
+Simple PLC exercise with TIA Portal
